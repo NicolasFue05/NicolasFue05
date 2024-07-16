@@ -23,7 +23,7 @@
 
 #### 📚 Education
 
-- **Current Education:** [Campuslands], pursuing [Senior Developer].
+- **Current Education:** Campuslands, pursuing Senior Developer.
 
 ---
 
@@ -37,7 +37,7 @@
 
 #### 🌍 Open Source Contributions
 
-- Contributed to [Database management through python] on GitHub, focusing on [].
+- Contributed to Database management through python on GitHub, focusing on Add, report, collect, display and edit country data.
 
 ---
 
@@ -53,11 +53,11 @@
 
 #### 🔗 Useful Links
 
-- Portfolio: [Your Portfolio Link]
-- Linkedin: [https://www.linkedin.com/in/nicolas-javier-fuentes-castañeda-015773317/]
+- Portfolio: Your Portfolio Link
+- Linkedin: https://www.linkedin.com/in/nicolas-javier-fuentes-castañeda-015773317/
 
 ---
 
 #### Contact
 
-- 📫 *How to reach me:* Email: [nicolasjfc05@gmail.com] 
+- 📫 *How to reach me:* Email: nicolasjfc05@gmail.com
