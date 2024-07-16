@@ -1,8 +1,6 @@
 ### Hi there, I'm Nicolas Javier Fuentes Castañeda 👋
 
-<img src="banner.png" style="align-text: center"/>
-
-![](banner.png)
+<img src="banner.png" style="width:100%"/>
 
 ---
 
