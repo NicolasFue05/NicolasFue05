@@ -1,5 +1,6 @@
 ### Hi there, I'm Nicolas Javier Fuentes Castañeda 👋
 
+!(banner.png)
 ---
 
 #### About Me
